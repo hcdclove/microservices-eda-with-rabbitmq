@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/hernanclarke/Desktop/Software Development/Microservices/eda_telemetry_dotnet/producer/TelemetryRabbitClient.csproj": {}
+  },
+  "projects": {
+    "/Users/hernanclarke/Desktop/Software Development/Microservices/eda_telemetry_dotnet/producer/TelemetryRabbitClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hernanclarke/Desktop/Software Development/Microservices/eda_telemetry_dotnet/producer/TelemetryRabbitClient.csproj",
+        "projectName": "TelemetryRabbitClient",
+        "projectPath": "/Users/hernanclarke/Desktop/Software Development/Microservices/eda_telemetry_dotnet/producer/TelemetryRabbitClient.csproj",
+        "packagesPath": "/Users/hernanclarke/.nuget/packages/",
+        "outputPath": "/Users/hernanclarke/Desktop/Software Development/Microservices/eda_telemetry_dotnet/producer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hernanclarke/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.415/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

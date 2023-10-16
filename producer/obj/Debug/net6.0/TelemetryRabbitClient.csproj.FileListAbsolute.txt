@@ -1,0 +1,17 @@
+/Users/hernanclarke/Desktop/Software Development/Microservices/eda_telemetry_dotnet/producer/bin/Debug/net6.0/TelemetryRabbitClient
+/Users/hernanclarke/Desktop/Software Development/Microservices/eda_telemetry_dotnet/producer/bin/Debug/net6.0/TelemetryRabbitClient.deps.json
+/Users/hernanclarke/Desktop/Software Development/Microservices/eda_telemetry_dotnet/producer/bin/Debug/net6.0/TelemetryRabbitClient.runtimeconfig.json
+/Users/hernanclarke/Desktop/Software Development/Microservices/eda_telemetry_dotnet/producer/bin/Debug/net6.0/TelemetryRabbitClient.dll
+/Users/hernanclarke/Desktop/Software Development/Microservices/eda_telemetry_dotnet/producer/bin/Debug/net6.0/TelemetryRabbitClient.pdb
+/Users/hernanclarke/Desktop/Software Development/Microservices/eda_telemetry_dotnet/producer/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/hernanclarke/Desktop/Software Development/Microservices/eda_telemetry_dotnet/producer/obj/Debug/net6.0/TelemetryRabbitClient.csproj.AssemblyReference.cache
+/Users/hernanclarke/Desktop/Software Development/Microservices/eda_telemetry_dotnet/producer/obj/Debug/net6.0/TelemetryRabbitClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hernanclarke/Desktop/Software Development/Microservices/eda_telemetry_dotnet/producer/obj/Debug/net6.0/TelemetryRabbitClient.AssemblyInfoInputs.cache
+/Users/hernanclarke/Desktop/Software Development/Microservices/eda_telemetry_dotnet/producer/obj/Debug/net6.0/TelemetryRabbitClient.AssemblyInfo.cs
+/Users/hernanclarke/Desktop/Software Development/Microservices/eda_telemetry_dotnet/producer/obj/Debug/net6.0/TelemetryRabbitClient.csproj.CoreCompileInputs.cache
+/Users/hernanclarke/Desktop/Software Development/Microservices/eda_telemetry_dotnet/producer/obj/Debug/net6.0/TelemetryRabbitClient.csproj.CopyComplete
+/Users/hernanclarke/Desktop/Software Development/Microservices/eda_telemetry_dotnet/producer/obj/Debug/net6.0/TelemetryRabbitClient.dll
+/Users/hernanclarke/Desktop/Software Development/Microservices/eda_telemetry_dotnet/producer/obj/Debug/net6.0/refint/TelemetryRabbitClient.dll
+/Users/hernanclarke/Desktop/Software Development/Microservices/eda_telemetry_dotnet/producer/obj/Debug/net6.0/TelemetryRabbitClient.pdb
+/Users/hernanclarke/Desktop/Software Development/Microservices/eda_telemetry_dotnet/producer/obj/Debug/net6.0/TelemetryRabbitClient.genruntimeconfig.cache
+/Users/hernanclarke/Desktop/Software Development/Microservices/eda_telemetry_dotnet/producer/obj/Debug/net6.0/ref/TelemetryRabbitClient.dll

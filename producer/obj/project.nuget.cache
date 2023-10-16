@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "h8re7A0r4qw83gQVxkv6qXT6IiPoZV5bFutBNIeIFU0u+82gmmD7rfVhjDD6VhiAmgQd9qjf0GPrJCs76unELQ==",
+  "success": true,
+  "projectFilePath": "/Users/hernanclarke/Desktop/Software Development/Microservices/eda_telemetry_dotnet/producer/TelemetryRabbitClient.csproj",
+  "expectedPackageFiles": [
+    "/Users/hernanclarke/.nuget/packages/rabbitmq.client/6.4.0/rabbitmq.client.6.4.0.nupkg.sha512",
+    "/Users/hernanclarke/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/hernanclarke/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
