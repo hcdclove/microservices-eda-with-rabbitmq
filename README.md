@@ -1,11 +1,15 @@
-Event Drivien Microservices App with RabbitMQ and SignalR Client
+Event Drivien Microservices system with a RabbitMQ channel and SignalR as the consumer service subscribers interface with.
 
 ![Alt text](NOP.png)
 
-Very minimalist implementation of an event driven micro service application with a RabbitMQ channel to handle high stream of noise  data sent by an n number of stations (producers) and validated by a SignalR validator consumed by a n number of subscribers.
+Very minimalist implementation of an event driven microservices application with RabbitMQ channel to handle the streaming of high number of noise data packs sent by an n-number of stations (producers), validated by a SignalR validator consumer servicing a n-number of subscribers.
 
-Note: In a normal microsersevice eda implementation there wouild be global services as part of the overall architecture providing necessary loggin, monitoring, security, etc that has been ignore here to keep this EDA as minimalist as possible as the main idea is to demonstrate the use of a third party broket such as RabbitMQ, Kafka, etc.
+Note: In a normal microsersevice eda implementation there would be critical global services as part of the overall architecture  loggin, monitoring, security, etc.  Depending on the volume and frequency of the inter services communication, a sidecar or service mesh may also be needed to transparently add capabilities like observability, traffic management,load balancing, failure recovery, metrics,and other non functional requirements.  All these has been ignored here to keep this microservices "eda" as minimalist as possible since the main idea is to demonstrate the use of a third party event-broker such as RabbitMQ.  Note there are several other options available such as kaftka, etc.
 
 Basic Requirements:
 
 ![Alt text](image.png)
+
+The tech stack I used were Microsott .net, and RabbitMQ. 
+
+The IDE was Visual Studio Code for the MAC
